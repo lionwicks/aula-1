@@ -1,0 +1,11 @@
+#include <iostream>
+
+int main() {
+    
+     std::cout << "       lll       lll     lll           ll0l \n";
+     std::cout << "l    lll  ll   ll  ll   ll ll   lll llllllllll~= \n";
+     std::cout << " ll ll    ll lll    ll ll   ll ll lll  ll0l \n";
+     std::cout << "  ll       lll       lll     lll         ";
+     // definitivamente isso é uma cobra
+    return 0;
+}
